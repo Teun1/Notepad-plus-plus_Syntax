@@ -1,4 +1,4 @@
-# Notepad-_Syntax
+# Notepad-plus-plus_Syntax
 A few visual syntaxis for Notepad++. E.g. IFC files, (Revit) JOURNAL files and a syntax for NOTES
 
 I use 'Deep Black' theme as a basic Theme
