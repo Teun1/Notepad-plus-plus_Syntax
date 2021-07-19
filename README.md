@@ -23,7 +23,7 @@ Below is a short summary with some links to places, if you need to dive into the
 
 
 The Journal files are located in a local user folder per Revit version. E.g:
-C:\Users\**USER**\AppData\Local\Autodesk\Revit\Autodesk Revit**VERSION**\Journals
+C:\Users\**USER**\AppData\Local\Autodesk\Revit\Autodesk Revit\**VERSION**\Journals
 
 You can find some piece of documentation in the Wiki and via the ReadingList on the Github of Andreas Diekman (developer of the Journalysis Package).
 
